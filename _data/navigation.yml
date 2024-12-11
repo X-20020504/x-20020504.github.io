@@ -1,0 +1,23 @@
+main:
+
+  - title: "Publications"
+    url: ./#publications
+    right: true
+
+  - title: "Additional Information"
+    url: ./#additional-information
+
+  - title: "Academic Service"
+    url: ./#academic-service
+
+  - title: "Obtained Funding"
+    url: ./#obtained-funding
+
+  - title: "Participating In Research Grants"
+    url: ./#participating-in-research-grants
+    
+  - title: "Education"
+    url: ./#education
+
+  - title: "About"
+    url: ./#about-me
